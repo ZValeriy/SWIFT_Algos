@@ -7,5 +7,7 @@
         <page name='Fibo'/>
         <page name='GCD'/>
         <page name='Onotation'/>
+        <page name='Tasks2'/>
+        <page name='Tasks'/>
     </pages>
 </playground>
